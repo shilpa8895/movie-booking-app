@@ -1,0 +1,94 @@
+{
+  "cinemas": [
+    {
+      "cinema_name": "Melbourne Central",
+      "showtimes": [
+        {
+          "movie_id": "678d112027ddeb013d86f665",
+          "showtime": "7:00 PM",
+          "date": "2025-01-21T00:00:00Z"
+        },
+        {
+          "movie_id": "678d112027ddeb013d86f667",
+          "showtime": "7:00 PM",
+          "date": "2025-01-21T00:00:00Z"
+        },
+        {
+          "movie_id": "678d112027ddeb013d86f668",
+          "showtime": "11:00 PM",
+          "date": "2025-01-21T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "cinema_name": "Chadstone",
+      "showtimes": [
+        {
+          "movie_id": "678d112027ddeb013d86f665",
+          "showtime": "6:00 PM",
+          "date": "2025-01-21T00:00:00Z"
+        },
+        {
+          "movie_id": "678d112027ddeb013d86f667",
+          "showtime": "8:00 PM",
+          "date": "2025-01-21T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "cinema_name": "Broadmeadows",
+      "showtimes": [
+        {
+          "movie_id": "678d112027ddeb013d86f66b",
+          "showtime": "5:00 PM",
+          "date": "2025-01-22T00:00:00Z"
+        },
+        {
+          "movie_id": "678d112027ddeb013d86f66d",
+          "showtime": "9:00 PM",
+          "date": "2025-01-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "cinema_name": "District Docklands",
+      "showtimes": [
+        {
+          "movie_id": "678d112027ddeb013d86f668",
+          "showtime": "3:00 PM",
+          "date": "2025-01-22T00:00:00Z"
+        },
+        {
+          "movie_id": "678d112027ddeb013d86f669",
+          "showtime": "5:00 PM",
+          "date": "2025-01-22T00:00:00Z"
+        },
+        {
+          "movie_id": "678d112027ddeb013d86f66a",
+          "showtime": "7:00 PM",
+          "date": "2025-01-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "cinema_name": "South Wharf",
+      "showtimes": [
+        {
+          "movie_id": "678d112027ddeb013d86f66e",
+          "showtime": "6:30 PM",
+          "date": "2025-01-22T00:00:00Z"
+        },
+        {
+          "movie_id": "678d112027ddeb013d86f66f",
+          "showtime": "8:00 PM",
+          "date": "2025-01-22T00:00:00Z"
+        },
+        {
+          "movie_id": "678d112027ddeb013d86f670",
+          "showtime": "9:30 PM",
+          "date": "2025-01-22T00:00:00Z"
+        }
+      ]
+    }
+  ]
+}

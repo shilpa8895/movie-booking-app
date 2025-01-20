@@ -1,0 +1,20 @@
+{
+  "name": "movie-booking-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\"",
+    "start-backend": "cd movie-backend && npm start",
+    "start-frontend": "cd movie_frontend && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "concurrently": "^9.1.2",
+    "react-router-dom": "^7.1.3"
+  }
+}

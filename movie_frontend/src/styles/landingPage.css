@@ -1,0 +1,132 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Landing Page Container */
+  .landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  /* Header Section */
+  .header {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 20px 0;
+    background-color: #2c3e50;
+    color: #fff;
+    display: flex;
+    justify-content: space-between; /* Distribute space between items */
+    align-items: center;
+  }
+  
+  .app-heading {
+    font-size: 2rem; /* Reduced font size for better alignment */
+    margin: 0;
+    flex: 1; /* This allows the heading to take available space */
+    text-align: left; /* Align the heading to the left */
+    padding-left: 20px; /* Space from the left side */
+    color: #fff;
+  }
+  
+  .search-bar-container {
+    display: flex;
+    align-items: center;
+    flex: 2; /* Make the search bar take more space */
+  }
+  
+  .search-bar {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%; /* Take full available space in its container */
+    max-width: 400px; /* Max width to avoid it being too wide */
+  }
+  
+  /* Login Button - Ensure consistency in width */
+  .landing-page .login-button {
+    padding: 10px 20px;
+    background-color: #e74c3c;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-right: 20px; /* Add margin to the right of the button */
+    flex-shrink: 0; /* Prevent shrinking */
+    width: auto; /* Let the width be based on content */
+  }
+  
+  .landing-page .login-button:hover {
+    background-color: #c0392b;
+  }
+  
+  /* Movie List Section */
+  .movie-list {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .movie-list-heading {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #2c3e50;
+  }
+  
+  /* Optional: Style the Movie Component for better visualization */
+  .movie-card {
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 300px;
+  }
+  
+  .movie-image {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .movie-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .btn-view-details {
+    padding: 8px 15px;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .btn-view-details:hover {
+    background-color: #2980b9;
+  }
+  
+  .btn-book-now {
+    padding: 8px 15px;
+    background-color: #27ae60;
+    color: white;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .btn-book-now:hover {
+    background-color: #2ecc71;
+  }
+  

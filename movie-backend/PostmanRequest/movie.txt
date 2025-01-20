@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "movie_name": "Inception",
+      "release_date": "2010-07-16",
+      "genre": "Sci-Fi",
+      "cast_and_crew": [
+        {
+          "Director": "Christopher Nolan",
+          "Actor": "Leonardo DiCaprio"
+        }
+      ],
+      "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the task of planting an idea into the mind of a CEO.",
+      "image": "http://localhost:5001/movies/inception.jpg",
+      "trailer_link": "https://www.youtube.com/embed/LifqWf0BAOA"
+    },
+    {
+      "movie_name": "Titanic",
+      "release_date": "1997-12-19",
+      "genre": "Romance",
+      "cast_and_crew": [
+        {
+          "Director": "James Cameron",
+          "Actor": "Leonardo DiCaprio"
+        }
+      ],
+      "synopsis": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "image": "http://localhost:5001/movies/titanic.jpg",
+      "trailer_link": "https://www.youtube.com/embed/I7c1etV7D7g"
+    },
+    {
+      "movie_name": "The Dark Knight",
+      "release_date": "2008-07-18",
+      "genre": "Action",
+      "cast_and_crew": [
+        {
+          "Director": "Christopher Nolan",
+          "Actor": "Christian Bale"
+        }
+      ],
+      "synopsis": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "image": "http://localhost:5001/movies/theDarkKnight.jpg",
+      "trailer_link": "https://www.youtube.com/embed/LDG9bisJEaI"
+    },
+    {
+      "movie_name": "Avatar",
+      "release_date": "2009-12-18",
+      "genre": "Action",
+      "cast_and_crew": [
+        {
+          "Director": "James Cameron",
+          "Actor": "Sam Worthington"
+        }
+      ],
+      "synopsis": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "image": "http://localhost:5001/movies/avatar.jpg",
+      "trailer_link": "https://www.youtube.com/embed/d9MyW72ELq0"
+    },
+    {
+      "movie_name": "The Matrix",
+      "release_date": "1999-03-31",
+      "genre": "Sci-Fi",
+      "cast_and_crew": [
+        {
+          "Director": "The Wachowskis",
+          "Actor": "Keanu Reeves"
+        }
+      ],
+      "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "image": "http://localhost:5001/movies/theMatrix.jpg",
+      "trailer_link": "https://www.youtube.com/embed/vKQi3bBA1y8"
+    }
+  ]
+}
